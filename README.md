@@ -1,6 +1,6 @@
 # Creating your own ERC20
 
-Creating ERC20 token with automated deployment to test network Ropsten using Truffle & Infura
+Creating ERC20 token with automated deployment to test network Ropsten, using Truffle & Infura
 
 
 
