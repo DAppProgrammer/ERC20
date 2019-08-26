@@ -24,9 +24,6 @@ const fs = require('fs');
 const infuraKey = fs.readFileSync("C:\\Windows\\System32\\.infuraKey").toString().trim();
 const mnemonic = fs.readFileSync("C:\\Windows\\System32\\.mnemonic").toString().trim();
 
-console.log(infuraKey);
-console.log(mnemonic);
-
 module.exports = {
   /**
    * Networks define how you connect to your ethereum client and let you set the
